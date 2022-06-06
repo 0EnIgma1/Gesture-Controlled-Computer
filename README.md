@@ -6,4 +6,4 @@ We didn’t use any external sensors and only webcam to capture to movement of h
 # Tech Stack : #
 - Python
 - Python modules:
-> Mediapipe, Numpy, Pyautogui, OpenCV.
+  > Mediapipe, Numpy, Pyautogui, OpenCV.
