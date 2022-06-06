@@ -4,12 +4,17 @@
 - Our GCC can be used by anyone and anywhere only with a Webcam and a system. 
 - We didn’t use any external sensors and only webcam to capture to movement of hand. This technology can be used in various sectors such as Smart home, Smart education, Entertainment, Self-driving cars, Gaming and medical field.
 - We trained some predefined gestures for functions like :-
+  > - Cursor movement
   > - Left click
   > - Right click
   > - Drag 
   > - Scroll up
   > - Scroll down
-  > 
+  > - move left
+  > - move right
+  > - screenshot
+  > - Hold left arrow
+  > - Hold right arrow
 # Tech Stack : #
 - Python
 - Python modules:
