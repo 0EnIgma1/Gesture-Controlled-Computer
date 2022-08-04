@@ -22,5 +22,5 @@
   > Mediapipe, Numpy, Pyautogui, OpenCV.
 
 <p align = "center">
-<img src = "https://github.com/0EnIgma1/Gesture-Controlled-Computer/blob/main/drag.png">
+<img src = "https://github.com/0EnIgma1/Gesture-Controlled-Computer/blob/main/drag.png" width = "600">
 </p>
