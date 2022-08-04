@@ -20,3 +20,6 @@
 - Python
 - Python modules:
   > Mediapipe, Numpy, Pyautogui, OpenCV.
+
+<p align = "center"
+img src = "
