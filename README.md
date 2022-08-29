@@ -16,7 +16,7 @@
   > - screenshot
   > - Hold left arrow
   > - Hold right arrow
-# Tech Stack : #
+# Tech Stack
 - Python
 - Python modules
   > Mediapipe, Numpy, Pyautogui, OpenCV.
