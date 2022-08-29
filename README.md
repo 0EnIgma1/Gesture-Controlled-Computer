@@ -18,7 +18,7 @@
   > - Hold right arrow
 # Tech Stack : #
 - Python
-- Python modules:
+- Python modules
   > Mediapipe, Numpy, Pyautogui, OpenCV.
 
 <p align = "center">
